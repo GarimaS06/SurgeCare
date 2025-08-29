@@ -29,14 +29,16 @@ Our **SurgeCare** makes it effortless. Patients can log daily pain, medication i
 ---
 
 ## Screenshots 
-<img width="1241" height="890" alt="image" src="https://github.com/user-attachments/assets/a44e82ca-bf58-4bad-a4e4-d8204b26dd44" />
+<img width="1255" height="898" alt="image" src="https://github.com/user-attachments/assets/e132ea0d-b3bb-4172-98a6-afddf6a0d7c6" />
+<img width="1918" height="889" alt="image" src="https://github.com/user-attachments/assets/69531c50-fb12-4cb7-89b7-ebd3ef0e7c18" />
+
 
 ---
 
 ## Tech Stack
 - **Frontend:** React, Tailwind CSS, AR.js  
 - **Backend:** Node.js, Express, MongoDB  
-- **AI:** TensorFlow / PyTorch for wound analysis & predictive alerts  
+- **AI:** TensorFlow / PyTorch for wound analysis & predictive alerts, Chatgpt for AI Assistance
 - **Authentication:** JWT / OAuth for secure patient data  
 
 ---
